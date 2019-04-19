@@ -3,9 +3,9 @@
 // Consider this variable:
 
 var mantra = "Be the dev";
-my namee 
-// 1. Write the code that returns 'B' from mantra.
 
+// 1. Write the code that returns 'B' from mantra.
+console.log (mantra.charAt(0))
 // 2. Write the code that determines if there is a 'x' in mantra.
 
 // 3. Write the code that determines if there is a 'v' in mantra.
@@ -15,27 +15,27 @@ my namee
 
 // Consider the following statement:
 
-var codingIsEasy
-var imBored
-
-if (codingIsEasy && imBored) {
-    console.log("I need more!")
-} else {
-    console.log("Steady as she goes")
-}
-
+// var codingIsEasy
+// var imBored
+//
+// if (codingIsEasy && imBored) {
+//     console.log("I need more!")
+// } else {
+//     console.log("Steady as she goes")
+// }
+//
 // 4. Update the codingIsEasy and imBored variables above the statement to the values required to log "I need more!"
 
 // Consider the following statement:
 
-var imLost
-var imFrustrated
-
-if (imLost || imFrustrated) {
-    console.log('Break time!')
-} else {
-    console.log('Keep coding!')
-}
+// var imLost
+// var imFrustrated
+//
+// if (imLost || imFrustrated) {
+//     console.log('Break time!')
+// } else {
+//     console.log('Keep coding!')
+// }
 
 // 5. Update the imLost and imFrustated variables above the statement to the values required to log "Keep coding!"
 
