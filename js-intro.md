@@ -5,6 +5,7 @@ Answer these questions, then follow the instructions to submit your first assess
 #### 1. What is a function? Why would you use one?
 a function is a set of instructions that you want your code to perform.  the goal is automate a process as much as possible
 #### 2. What is a method?
+methods are a variety of actions that can be applied to objects
 
 #### 3. What are some examples of javascript string methods?
 
