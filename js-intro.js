@@ -5,19 +5,19 @@
 var mantra = "Be the dev";
 
 // 1. Write the code that returns 'B' from mantra.
-// console.log (mantra.charAt(0))
+  // console.log (mantra.charAt(0))
 // 2. Write the code that determines if there is a 'x' in mantra.
-console.log(mantra.includes("x"))
+  // console.log(mantra.includes("x"))
 
 // 3. Write the code that determines if there is a 'v' in mantra.
-
+  // console.log(mantra.includes("v"))
 // Stretch: Write the code that returns the position of 'v' in mantra.
-
+  // console.log (mantra.indexOf('v'))
 
 // Consider the following statement:
 
-// var codingIsEasy
-// var imBored
+// var codingIsEasy = (10 > 5)
+// var imBored = (true != false)
 //
 // if (codingIsEasy && imBored) {
 //     console.log("I need more!")
@@ -29,8 +29,8 @@ console.log(mantra.includes("x"))
 
 // Consider the following statement:
 
-// var imLost
-// var imFrustrated
+// var imLost = (10 % 2 != 0)
+// var imFrustrated = ("9" === 9)
 //
 // if (imLost || imFrustrated) {
 //     console.log('Break time!')
@@ -41,6 +41,8 @@ console.log(mantra.includes("x"))
 // 5. Update the imLost and imFrustated variables above the statement to the values required to log "Keep coding!"
 
 // 6a. Recall the mantra variable from the first question. Write the code that logs each letter of mantra using a for loop.
+var mantra = "Be the dev"
+
 
 // Stretch: Using a while loop.
 
