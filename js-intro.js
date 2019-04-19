@@ -5,8 +5,9 @@
 var mantra = "Be the dev";
 
 // 1. Write the code that returns 'B' from mantra.
-console.log (mantra.charAt(0))
+// console.log (mantra.charAt(0))
 // 2. Write the code that determines if there is a 'x' in mantra.
+console.log(mantra.includes("x"))
 
 // 3. Write the code that determines if there is a 'v' in mantra.
 
@@ -47,16 +48,16 @@ console.log (mantra.charAt(0))
 
 // Consider the following variable:
 
-var message = "thisisateststring"
-
-// 7. Write a function that takes a string like message as an argument and returns the string without vowels.
-
-// Stretch: Update your function to throw an exception if the argument is not a string.
-
-// Super Duper Stretch: Update your function to throw a TypeError if the argument is not a string.
-
-// Consider the following variable:
-
-var toonimals = [ {name: 'Itchy', animal: 'mouse'}, {name: 'Stimpy', animal: 'cat'}, {name: 'Daffy', animal: 'duck'}, {name: 'Scratchy', animal: 'cat'}, {name: 'Ren', animal: 'dog'}, {name: 'Felix', animal: 'cat'}]
-
-// 8. Write a function that takes an array like toonimals and returns an array with only the toons that are cats.
+// var message = "thisisateststring"
+//
+// // 7. Write a function that takes a string like message as an argument and returns the string without vowels.
+//
+// // Stretch: Update your function to throw an exception if the argument is not a string.
+//
+// // Super Duper Stretch: Update your function to throw a TypeError if the argument is not a string.
+//
+// // Consider the following variable:
+//
+// var toonimals = [ {name: 'Itchy', animal: 'mouse'}, {name: 'Stimpy', animal: 'cat'}, {name: 'Daffy', animal: 'duck'}, {name: 'Scratchy', animal: 'cat'}, {name: 'Ren', animal: 'dog'}, {name: 'Felix', animal: 'cat'}]
+//
+// // 8. Write a function that takes an array like toonimals and returns an array with only the toons that are cats.
