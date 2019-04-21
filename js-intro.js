@@ -42,9 +42,16 @@ var mantra = "Be the dev";
 
 // 6a. Recall the mantra variable from the first question. Write the code that logs each letter of mantra using a for loop.
 var mantra = "Be the dev"
-
-
+var newMantra = mantra.replace(/\s/g, "")
+// for (let i=0; i<newMantra.length; i++)
+// console.log(newMantra[i])
 // Stretch: Using a while loop.
+var mantraArr = newMantra.split("")
+var i = 0
+while (mantraArr[i]){
+  console.log(mantraArr[i])
+  i++
+}
 
 // Super Stretch: Using forEach().
 
